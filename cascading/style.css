@@ -12,17 +12,71 @@
   /* header css start  */
 .headbanner{
 
+background: #F1F1F3;
+
+padding-bottom: 90px;
 }
-nav{}
+nav{
+    display: flex;
+    max-width: 1280px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 28px 0;
+}
 nav ul{}
-nav ul li{}
-nav ul li a{}
-.signbtn{}
-.headflex{}
-.headcontent{}
-.headcontent span{}
-.headcontent h1{}
-.btnone button{}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+}
+.signbtn{
+    padding: 10px 25px;
+    color: #006A50;
+    border: 1px solid #006A50;
+    border-radius: 9px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.headflex{
+    display: flex;
+    justify-content: center;
+    max-width: 1280px;
+    margin: 0 auto;
+    background: #C6E4D6;
+    padding: 36px  30px;
+    align-items: center;
+    border-radius: 11px;
+    gap: 70px;
+}
+.headcontent{
+    max-width: 570px;
+}
+.headcontent span{
+    font-size: 24px;
+    font-weight: 400;
+    color: #0E0E0E;
+    opacity: 0.7;
+    margin-bottom: 18px;
+    display: block;
+}
+.headcontent h1{
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 19px;
+}
+.btnone button{
+    padding: 15px 34px;
+    border-radius: 7px;
+    border: none;
+    background: #006A50;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
 .headimg{}
 .headimg img{}
   /* header css end  */
