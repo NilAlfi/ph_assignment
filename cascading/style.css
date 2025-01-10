@@ -34,7 +34,7 @@ nav ul li a{
     font-weight: bold;
 }
 .signbtn{
-    padding: 10px 25px;
+    padding: 15px 30px;
     color: #006A50;
     border: 1px solid #006A50;
     border-radius: 9px;
@@ -84,7 +84,7 @@ nav ul li a{
   /* main section start  */
 .mainsection{
 
-padding-bottom: 90px;
+padding-bottom: 70px;
 
 background: #F1F1F3;
 }
@@ -129,7 +129,7 @@ background: #F1F1F3;
    /* three card section start  */
 .threeitems{
     background: #F1F1F3;
-    padding-bottom: 90px;
+    padding-bottom: 70px;
 }
 .fixed{
     max-width: 1280px;
@@ -154,6 +154,8 @@ background: #F1F1F3;
     padding: 32px;
     background: #81B4FC;
     border-radius: 16px;
+    flex-basis: 100%;
+    max-width: 100%;
 }
 
 .three1 img{
@@ -173,6 +175,8 @@ background: #F1F1F3;
     padding: 32px;
     background: #C6E4D6;
     border-radius: 16px;
+    flex-basis: 100%;
+    max-width: 100%;
 }
 
 .three2 img{
@@ -192,6 +196,8 @@ background: #F1F1F3;
     padding: 32px;
     background: #F7EBCF;
     border-radius: 16px;
+    flex-basis: 100%;
+    max-width: 100%;
 }
 
 .three3 img{
@@ -236,8 +242,9 @@ background: #F1F1F3;
    /* Yunus section start  */
 .yunus{
     
-    background: #F1F1F3;
-    padding-bottom: 90px;
+background: #F1F1F3;
+    
+padding-bottom: 70px;
 }
 .youwidth{
     max-width: 1280px;
@@ -272,7 +279,7 @@ margin-bottom: 9px;
 /* opinion section start */
 .opinion{
     background: #F1F1F3;
-    padding-bottom: 90px;
+    padding-bottom: 70px;
 }
 .opinionwidth{
     max-width: 1280px;
@@ -419,9 +426,8 @@ flex-direction: row-reverse;
 /* donate Section start */
 .donate{
     background: #F1F1F3;
-    padding-bottom: 90px;
-    padding-top: 50px;
-
+    padding-bottom: 70px;
+    padding-top: 30px;
 }
 .fixwid{
     max-width: 1280px;
@@ -539,8 +545,7 @@ margin-top: 15px;
 /* Newsletter section start  */
 .newslettersec{
     background: #F1F1F3;
-    padding-bottom: 90px;
-
+    padding-bottom: 70px;
 }
 .newswidth{
     max-width: 1280px;
