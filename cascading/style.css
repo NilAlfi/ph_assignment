@@ -126,3 +126,208 @@ background: #F1F1F3;
     color: #0E0E0E;
 }
    /* main section End */
+   /* three card section start  */
+.threeitems{
+    background: #F1F1F3;
+    padding-bottom: 90px;
+}
+.fixed{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.vision{}
+.vision h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.vision p{
+    font-size: 16px;
+    line-height: 1.6rem;
+    margin-bottom: 30px;
+}
+.cardflex{
+    display: flex;
+    gap: 40px;
+}
+.three1{
+    padding: 32px;
+    background: #81B4FC;
+    border-radius: 16px;
+}
+
+.three1 img{
+    width: 62px;
+    margin-bottom: 15px;
+}
+.three1 h3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.three1 p{
+    font-size: 16px;
+    line-height: 1.7rem;
+}
+.three2{
+    padding: 32px;
+    background: #C6E4D6;
+    border-radius: 16px;
+}
+
+.three2 img{
+    width: 62px;
+    margin-bottom: 15px;
+}
+.three2 h3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.three2 p{
+    font-size: 16px;
+    line-height: 1.7rem;
+}
+.three3{
+    padding: 32px;
+    background: #F7EBCF;
+    border-radius: 16px;
+}
+
+.three3 img{
+    width: 62px;
+    margin-bottom: 15px;
+}
+.three3 h3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.three3 p{
+    font-size: 16px;
+    line-height: 1.7rem;
+}
+.tabtn1 button{
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: navajowhite;
+    background: #5490F5;
+    margin-top: 30px;
+    color: #fff;
+}
+.tabtn2 button{
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: navajowhite;
+    background: #09A15C;
+    margin-top: 30px;
+    color: #fff;
+}
+.tabtn3 button{
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: navajowhite;
+    background: #FFC239;
+    margin-top: 30px;
+    color: #fff;
+}
+   /* three card section End  */
+
+   /* Yunus section start  */
+.yunus{
+    
+    background: #F1F1F3;
+    padding-bottom: 90px;
+}
+.youwidth{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.youcontent{
+    padding: 30px 24px;
+    background: #fff;
+    border-radius: 16px;
+    border: 1px solid #80808059;
+}
+.youcontent p{
+    font-size: 16px;
+    line-height: 1.7rem;
+    margin-bottom: 11px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding: 20px 0;
+}
+.youcontent h2{
+
+font-size: 20px;
+
+font-weight: 600;
+
+margin-bottom: 9px;
+}
+.youcontent span{}
+     /* Yunus section end  */
+
+/* opinion section start */
+.opinion{
+    background: #F1F1F3;
+    padding-bottom: 90px;
+}
+.opinionwidth{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.opicontent{}
+.opicontent h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.opiFlex{
+    display: flex;
+    padding: 32px;
+    background: #fff;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.question{
+    max-width: 50%;
+    flex-basis: 50%;
+    background: #C6E4D6;
+    padding: 11px;
+    margin-bottom: 15px;
+}
+.question h3{}
+.select{
+    max-width: 50%;
+    flex-basis: 50%;
+    text-align: right;
+    background: #C6E4D6;
+    padding: 11px;
+    margin-bottom: 15px;
+}
+.select h4{}
+.left{
+    max-width: 50%;
+    flex-basis: 50%;
+}
+.left p{
+    font-size: 15px;
+    font-weight: 600;
+}
+.right{
+    max-width: 50%;
+    flex-basis: 50%;
+    text-align: right;
+}
+.right select{
+    padding: 10px 25px;
+    background: #C6E4D6;
+    font-size: 14px;
+    font-weight: bold;
+}
+.right select option{
+}
+/* opinion section start */
