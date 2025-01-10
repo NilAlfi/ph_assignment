@@ -338,7 +338,7 @@ margin-bottom: 9px;
 
 background: #F1F1F3;
 
-padding-bottom: 90px;
+padding-bottom: 30px;
 }
 .recent{
     max-width: 1280px;
@@ -416,3 +416,122 @@ gap: 40px;
 flex-direction: row-reverse;
 }
 /* recentNews section end  */
+/* donate Section start */
+.donate{
+    background: #F1F1F3;
+    padding-bottom: 90px;
+    padding-top: 50px;
+
+}
+.fixwid{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.donatecon{}
+.donatecon h2{
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.donatecon p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7rem;
+    text-align: center;
+    margin-bottom: 35px;
+}
+.takasecflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 27px;
+    gap: 40px;
+}
+.fourtaka1{
+    padding: 40px;
+    background: #fff;
+    border-radius: 16px;
+}
+.fourtaka2{
+    padding: 40px;
+    border-radius: 16px;
+    background: #C6E4D6;
+}
+.fourtaka3{
+    padding: 40px;
+    background: #fff;
+    border-radius: 16px;
+}
+.fourtaka4{
+    padding: 40px;
+    background: #fff;
+    border-radius: 16px;
+}
+.fourtaka1 h3{
+    font-size: 40px;
+    font-weight: bold;
+}
+.fourtaka2 h3{
+    font-size: 40px;
+    font-weight: bold;
+}
+.fourtaka3 h3{
+    font-size: 40px;
+    font-weight: bold;
+}
+.fourtaka4 h3{
+    font-size: 40px;
+    font-weight: bold;
+}
+.btnbtt{
+    text-align: center;
+}
+.btnbtt button{
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: navajowhite;
+    background: #006A50;
+    margin-top: 30px;
+    color: #fff;
+}
+input[type="text"]{
+    
+padding: 20px 40px;
+    
+width: 80%;
+    
+text-align: center;
+    
+font-size: 20px;
+    
+color: #0E0E0E;
+    
+border: none;
+    
+border-radius: 2px;
+    
+margin-top: 15px;
+}
+.formtt{
+    text-align: center;
+}
+/* hover effect */
+.fourtaka1:hover{
+    background-color: #5490F5;
+    transition:all 1s;
+    color: #fff;
+}
+.fourtaka2:hover{
+    background-color: green;
+    transition:all 1s;
+}
+.fourtaka3:hover{
+    background: yellow;
+    transition:all 1s;
+}
+.fourtaka4:hover{
+    background:#F7EBCF;
+    transition:all 1s;
+}
+/* donate Section end  */
